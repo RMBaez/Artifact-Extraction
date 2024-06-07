@@ -1,18 +1,16 @@
 <img width="573" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/44d93275-745c-4860-a7c9-11564b500093">
 
 
-<h1> Microsoft Azure Relational Databases(Azure) </h1>
-This tutorial outlines the foundation to understanding and implementing Azure relational databases specifically in the context of MySQL using the fully managed database offerings available through Microsoft Azure.
+<h1> Manual Artifact Extraction </h1>
+This tutorial outlines the retrival of key indicators and artifacts from phishing emails using manual methods and tools.
 <br />
 
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure AD
-- Bash
-- Firewall
-- MySQL
+- Thubderbird
+- Subline 3
 
 
 
