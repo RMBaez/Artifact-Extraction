@@ -184,3 +184,12 @@ Question 14. Using the IP from the previous question, we'll submit it to https:/
 Question 15. From within the text editor we can search for “filename”.
 </p>
 <br />
+
+<p>
+<img width="545" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/be2871cc-c8d6-41fa-9203-d2d422920b35">
+</p>
+
+<p>
+Question 16. In Thunderbird we can right-click the attachment and click Save-As, then save it to the Desktop. We'll then open a PowerShell window and use the Get-FileHash cmdlet to retrieve the MD5 and SHA256 hashes. As SHA256 is the default hashing algorithm we don't need to state it, however we must do this for MD5.
+</p>
+<br />
