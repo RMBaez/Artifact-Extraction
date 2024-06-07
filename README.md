@@ -38,89 +38,79 @@ This tutorial outlines the retrival of key indicators and artifacts from phishin
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-
-
-
+<img width="538" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/54936881-ced9-41cd-9a83-217b9da3594e">
 </p>
+
 <p>
-Task 1.
+Question 1. Opening the email in Sublime Text we can use the Find feature (CTRL+F) to search for “From”.
+</p>
+<br />
+
+
+<p>
+<img <img width="538" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/fdc12ecd-417a-43ce-9efb-4dff452d34f6">
+</p>
+
+<p>
+Question 2. We'll look for the “To” field and its value.
+</p>
+<br />
+
+
+<p>
+<img width="538" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/c9b0fac7-16b3-4218-a7b5-c6f2b32dd2ce">
+</p>
+
+<p>
+Questoin 3. We'll look for the “Subject” field and its value.
+</p>
+<br />
+
+
+<p>
+<img width="538" alt="Screenshot 2024-06-07 at 6 58 41 PM" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/6df98f18-4519-426e-8f05-9087ef66ed1c">
+</p>
+  
+<p>
+Question 4. We'll look for the “Date” field and its value.
+</p>
+<br />
+
+
+<p>
+<img width="538" alt="Screenshot 2024-06-07 at 6 58 41 PM" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/9a987c11-1887-4498-bba8-ae599c365659">
+</p>
+
+<p>
+Question 5. We'll search for the “X-Sender-IP” field and its value.
 </p>
 <br />
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/8ec97307-1c0c-437c-935c-dd1c764e602f">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/d99e7d00-cad4-4742-8aaf-0b8279f67713">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/69704a49-bc86-4b59-97e5-26ede7edf76c">
-
-
+<img width="644" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/87334797-2169-41a0-ab51-21ad663cbe9c">
 </p>
+
 <p>
-Task 2.
+Question 6. Taking the IP from the previous question we'll open the site https://whois.domaintools.com and perform a search. We can see the resolved hostname below.
 </p>
 <br />
 
+
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9206c676-f21c-4a06-9c6d-05139dfed1ac">
-
-
+<img width="542" alt="Screenshot 2024-06-07 at 7 03 20 PM" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/606c2bee-b9d7-4937-96b3-ac3985c8855e">
 </p>
-<p>
-Task 3.
-</p>
-<br />
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/390e9ab3-52d3-4ad5-a0bf-3e4865ffadcd">
-
-</p>
-<p>
-Task 4.
+Question 7. The easiest way to retrieve this artifact is to right-click the hyperlink when viewing the file in an email client, and select ‘Copy Hyperlink’ (or a similar option).
 </p>
 <br />
 
+
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/79a1d5ad-a6ac-4e32-88d3-013c0b1307da">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/7676b0b4-08d0-445f-96e8-58768ec62a93">
-
-
+<img width="546" alt="Screenshot 2024-06-07 at 7 07 02 PM" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/1853f4e9-0aa3-4e26-8c31-b7108f382bd7">
 </p>
-<p>
-Task 5.
-</p>
-<br />
 
 <p>
-<img <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9ed3a75d-6419-4e95-9eda-1dd561649bcf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/ff3d347e-7eb5-43c2-ae7c-f56f6ca623b1">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0b1276c1-4523-4767-a8c4-99fd12465a4b">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/18fbf97c-0866-4118-a910-7a5a1cf4fcd0">
-
-
-</p>
-<p>
-Task 6.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/bd9bca2a-2de2-4c81-8a09-bcabf3c4586e">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0bc5f2dd-9fdb-4d12-85b8-dcf266d15e99">
-
-
-
-</p>
-<p>
-Task 7.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/32b8c522-2a5f-4518-aded-26eed4bc70cf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9fc8b287-7d91-4a4c-baee-eaeb30dd282a">
-
-
-</p>
-<p>
-Task 8.
+Question 8. To find this we can either right-click the link in the email and select ‘copy link location’ and paste it into a program such as Notepad to see the URL text, or search for ‘http’ or ‘https’ in the email file until we find the right link. The ‘root domain’ essentially means the domain name of the URL, not including the specific resource. The root domain is ‘thiswouldbeamalicioussite.com’.
 </p>
 <br />
