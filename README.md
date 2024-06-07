@@ -114,3 +114,73 @@ Question 7. The easiest way to retrieve this artifact is to right-click the hype
 Question 8. To find this we can either right-click the link in the email and select ‘copy link location’ and paste it into a program such as Notepad to see the URL text, or search for ‘http’ or ‘https’ in the email file until we find the right link. The ‘root domain’ essentially means the domain name of the URL, not including the specific resource. The root domain is ‘thiswouldbeamalicioussite.com’.
 </p>
 <br />
+
+
+<p>
+<img width="541" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/d3372b6e-a5fd-4ff9-a7ea-1d6f8eab9e7e">
+</p>
+
+<p>
+Question 9. Same as before, we'll use Find and search for “From”.
+</p>
+<br />
+
+
+<p>
+<img width="541" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/4130de1d-f8d1-4989-8b95-55cd9459fd55">
+</p>
+
+<p>
+Question 10. Searching for the “To” field and value.
+</p>
+<br />
+
+
+<p>
+<img width="541" alt="Screenshot 2024-06-07 at 7 16 25 PM" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/81a51ff1-c4b0-4762-a267-57f33f238483">
+</p>
+
+<p>
+Questoin 11. Searching for the “To” field and value.
+</p>
+<br />
+
+
+<p>
+<img width="541" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/eb374b24-2a0d-4522-83ec-b3ac31964d1b">
+</p>
+  
+<p>
+Question 12. Searching for the “Date” field and value.
+</p>
+<br />
+
+
+<p>
+<img width="334" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/a2c5d7fa-ed1c-4ae6-bd99-bb7fc8bd3b35">
+</p>
+
+<p>
+Question 13. We'll search for the “X-Sender-IP” field and its value.
+</p>
+<br />
+
+
+<p>
+<img width="594" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/b02f5162-9866-431d-a731-0227cd9dc002">
+</p>
+
+<p>
+Question 14. Using the IP from the previous question, we'll submit it to https://whois.domaintools.com.
+</p>
+<br />
+
+
+<p>
+<img width="545" alt="image" src="https://github.com/RMBaez/Artifact-Extraction/assets/170957530/480d7f9d-265c-4009-b913-894eacfefbe4">
+</p>
+
+<p>
+Question 15. From within the text editor we can search for “filename”.
+</p>
+<br />
