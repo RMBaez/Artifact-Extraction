@@ -10,26 +10,35 @@ This tutorial outlines the retrival of key indicators and artifacts from phishin
 <h2>Environments and Technologies Used</h2>
 
 - Thubderbird
-- Subline 3
+- Sublime 3
 
 
 
 <h2>Deployment and Configuration Steps</h2>
 
-- Task 1:  Create your own resource group which you will use throughout the project and demonstrate your understanding of the importance of Resource Groups in resource management
-- Task 2: Create an Azure Database for MySQL Server using the Azure Portal
-- Task 3: Configure access through the server firewall based on your IP address
-- Task 4: Connect to and authenticate with the Azure Database for MySQL Server
-- Task 5: Create a new database, load sample data and run queries against the data using the MySQL command line tool
-- Task 6: Update and query data in the new database and restore data to a point in time
-- Task 7: Restore the database to a specific point in time
-- Task 8: Clean up and delete unwanted resources to reduce costs
+- Question 1 - Email One - What is the sending address?
+- Question 2 - Email One - What is the recipient address?
+- Question 3 - Email One - What is the subject line?
+- Question 4 - Email One - What is the date and time the email was received? (Retrieve this via text editor. Format: DD MonthName YYYY XX:XX:XX)
+- Question 5 - Email One - What is the sending server IP address?
+- Question 6 - Email One - What is the hostname of this IP address? (Reverse DNS Lookup)
+- Question 7 - Email One - What is the full URL hyperlinked within this email?
+- Question 8 - Email One - What is the root domain of the URL?
+- Question 9 - Email Two - What is the sending address?
+- Question 10 - Email Two - What is the recipient address?
+- Question 11 - Email Two - What is the subject line?
+- Question 12 - Email Two - What is the date and time the email was received? (Retrieve this via text editor. Format: DD MonthName YYYY XX:XX:XX)
+- Question 13 - Email Two - What is the sending server IP address?
+- Question 14 - Email Two - What is the hostname of the sending server IP? (Reverse DNS Lookup)
+- Question 15 - Email Two - What is the full file name? (name + extension)
+- Question 16 - Email Two - What are the MD5 and SHA256 hashes of the attached file? (Format: MD5 SHA256)
+
+
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9df6e855-7701-476b-abe7-de7886a01e11">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/6aba3fd5-5c93-49f7-bc29-da36cc1d3efb">
+
 
 
 </p>
