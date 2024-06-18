@@ -141,7 +141,7 @@ Question 10. Searching for the “To” field and value.
 </p>
 
 <p>
-Questoin 11. Searching for the “To” field and value.
+Questoin 11. Searching for the “Subject” field and value.
 </p>
 <br />
 
